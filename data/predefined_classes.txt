@@ -1,15 +1,27 @@
-dog
-person
-cat
-tv
-car
-meatballs
-marinara sauce
-tomato soup
-chicken noodle soup
-french onion soup
-chicken breast
-ribs
-pulled pork
-hamburger
-cavity
+Slub
+Hole
+Missing Yarn
+Thick Yarn
+Foreign Yarn
+Thin Yarn
+Soiled Yarn
+Oil Spot
+Dye Spot
+Dirt Mark
+Stain
+Crease line
+Snagging
+Laddering
+Abrasion
+Misknit
+Run
+Broken ends
+Knots and Neps
+Misplaiting
+Stop/Reed mark
+Dead Cotton
+Cloudy
+Moire
+Barre
+Broken Spandex
+Needle Line
