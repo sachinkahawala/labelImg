@@ -294,3 +294,22 @@ Stargazers over time
 
 .. image:: https://starchart.cc/tzutalin/labelImg.svg
 
+
+
+FabVis project
+
+Installation
+------------------
+    sudo apt-get install pyqt5-dev-tools
+    sudo pip3 install -r requirements/requirements-linux-python3.txt
+    make qt5py3
+    python3 labelImg.py
+
+Steps (YOLO)
+
+
+1. Right below "Save" button in the toolbar, click "PascalVOC" button to switch to YOLO format.
+
+2. You may use Open/OpenDIR to process single or multiple images. When finished with a single image, click save.
+
+A txt file of YOLO format will be saved in the same folder as your image with same name. A file named "classes.txt" is saved to that folder too. "classes.txt" defines the list of class names that your YOLO label refers to.
