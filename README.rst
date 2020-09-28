@@ -300,6 +300,7 @@ FabVis project
 
 Installation
 ------------------
+first clone the source to the required directory. then run the following commands;
 .. code:: shell
 
     sudo apt-get install pyqt5-dev-tools
