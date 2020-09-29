@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5_White</folder>
+	<filename>Hole_0.bmp</filename>
+	<path>E:\myPython\To Harshana\5_White\Hole_0.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1249</xmin>
+			<ymin>1380</ymin>
+			<xmax>1330</xmax>
+			<ymax>1505</ymax>
+		</bndbox>
+	</object>
+</annotation>
